@@ -1,0 +1,69 @@
+
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+background-color: rgb(186, 232, 232);
+}
+
+
+
+section {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin-top: 10%;
+
+
+}
+ section p{
+    color: rgb(4, 4, 79);
+    font-weight:bolder;
+    font-size: 4rem;
+    text-align: center;
+
+ }
+#counter{
+    color: green;
+    font-size: 6rem;
+padding: 40px;
+}
+ .btn-inc,
+ .btn-dec,
+ .btn-reset
+ {
+    font-size:1.5rem ;
+    padding: 10px;
+    margin: 1rem;
+    border-radius:10px ;
+    -webkit-border-radius:10px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
